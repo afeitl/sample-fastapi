@@ -1,0 +1,6 @@
+name: sample-fastapi
+services:
+- name: web
+  github:
+    repo: erhan/sample-fastapi
+    branch: main
